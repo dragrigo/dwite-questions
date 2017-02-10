@@ -23,5 +23,5 @@ for i in xrange(len(qlocs)):
         print "GOT"
     except:
         print "!!!!!!!!!!!!!!!!!!!!!!!"
-        print "NOT GOT"
+        print "NOT GO"
         print "!!!!!!!!!!!!!!!!!!!!!!!"
